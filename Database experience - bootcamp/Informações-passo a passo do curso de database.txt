@@ -1,0 +1,6 @@
+No primeiro momento, foi indicado para nós,alunos, o conceito sobre cada tipo de desenvolvedor(UI,UX,FrontEnd,BackEnd,Cloud,Frameworks,etc)
+Deixando claro o trabalho do dev em cada parte do projeto.
+
+
+O desafio será criar um Portfólio usando o Git/Github, como assim estou fazendo na intenção de deixar toda a minha estadia na 
+DIO,no quesito cursos e bootcamps, salvo neste documento.
